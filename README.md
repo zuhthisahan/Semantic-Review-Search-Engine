@@ -1,4 +1,4 @@
-# 👗 AI-Powered Fashion Review Search
+# 👗 AI-Powered Fashion Semeantic Review Search
 
 An intelligent review search system that leverages sentence embeddings and topic modelling to explore and rank customer reviews from a clothing dataset. This application enables users to search reviews by custom text queries or predefined topics like **quality**, **fit**, **size**, **comfort**, and **price** — all categorized by clothing classes.
 
@@ -32,6 +32,13 @@ ChromaDB
 
 FastAPI
 
+
+
+![Alt text](UI_1.png)
+![Alt text](UI_2.png)
+
+
+
 ### Backend (FastAPI)
 
 1. **Clone the repo**
@@ -45,5 +52,5 @@ cd ../frontend
 npm install
 npm run dev
 
-![Alt text](UI_1.jpeg)
+
 
