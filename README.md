@@ -1,6 +1,6 @@
 # 👗 AI-Powered Fashion Review Search
 
-An intelligent review search system that leverages sentence embeddings and topic modeling to explore and rank customer reviews from a clothing dataset. This application enables users to search reviews by custom text queries or predefined topics like **quality**, **fit**, **size**, **comfort**, and **price** — all categorized by clothing classes.
+An intelligent review search system that leverages sentence embeddings and topic modelling to explore and rank customer reviews from a clothing dataset. This application enables users to search reviews by custom text queries or predefined topics like **quality**, **fit**, **size**, **comfort**, and **price** — all categorized by clothing classes.
 
 ---
 
@@ -45,4 +45,5 @@ cd ../frontend
 npm install
 npm run dev
 
+![Alt text](UI_1.jpeg)
 
